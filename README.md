@@ -296,3 +296,6 @@ footer {
     padding: 10px 0;
 }
 ```
+## output
+![Screenshot 2024-07-05 141833](https://github.com/Khabir-Ahmed786/CSS-Advanced/assets/143950752/b1130dc6-e8a8-4d94-99b6-cec43ea6e577)
+
